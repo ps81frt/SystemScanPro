@@ -4,6 +4,11 @@ All notable changes to this project are documented in this file.
 
 ---
 
+## [7.3.2] — 2026-03-27
+
+### Fixed
+- Fixed command CLI mode
+
 ## [7.3.0] — 2026-03-27
 
 ### Added
