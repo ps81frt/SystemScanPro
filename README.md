@@ -1,6 +1,6 @@
 ﻿# SystemScanPRO
 
-> Windows forensic and malware analysis scanner — v7.3.1  
+> Windows forensic and malware analysis scanner — v7.3.2 
 > Author: [ps81frt](https://github.com/ps81frt) · Repository: [github.com/ps81frt/SystemScanPro](https://github.com/ps81frt/SystemScanPro)
 
 ---
